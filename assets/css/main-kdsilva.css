@@ -1,0 +1,24 @@
+
+h3.experiences-labels {
+	margin: 0px; 
+}
+
+h4.experiences-labels { 
+	font-style: oblique;
+}
+ 
+.image.left img, .image.right img { 
+	width: auto;
+	max-height: 80px;
+	max-width: 150px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.experiences-div p {
+	text-align: justify; 
+}
+ 
+hr { 
+	border-bottom-color: rgba(0, 0, 0, 0.03)
+}
