@@ -9,7 +9,7 @@ h4.experiences-labels {
  
 .image.left img, .image.right img { 
 	width: auto;
-	max-height: 80px;
+	max-height: 60px;
 	max-width: 150px;
 	margin-left: 10px;
 	margin-right: 10px;
@@ -20,5 +20,9 @@ h4.experiences-labels {
 }
  
 hr { 
-	border-bottom-color: rgba(0, 0, 0, 0.03)
+	border-bottom-color: rgba(0, 0, 0, 0.15)
+}
+
+ul li { 
+  padding-top: 10px;
 }
